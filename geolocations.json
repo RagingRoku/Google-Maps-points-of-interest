@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Marvin's Restaurant",
+        "lat": 38.3288835,
+        "lng": -122.708428,
+        "description": "<h2>Marvin's of Cotati</h2><p>Open daily 6am-2:30pm </p> <p>   <a target=\"_blank\" href=\"https://www.marvinsofcotati.com/\">marvinsofcotati.com</a> </p>"
+    },
+    {
+        "title": "UCSB",
+        "lat": 34.4125401,
+        "lng": -119.8494056,
+        "description": "<h2>University of California, Santa Barbara</h2><p>Go Gauchos! </p> <p>   <a target=\"_blank\" href=\"https://www.ucsb.edu/\">ucsb.edu/</a> </p>"
+    },
+    {
+        "title": "Santa Rosa Junior College",
+        "lat": 38.4548842,
+        "lng": -122.722611,
+        "description": "<h2>Santa Rosa Junior College</h2><p> broaden your horizons </p> <p> <a target=\"_blank\" href=\"https://www.santarosa.edu/\">santarosa.edu</a> </p>"
+    },
+    {
+        "title": "The White House",
+        "lat": 38.8975223,
+        "lng": -77.0371451,
+        "description": "<h2>The White House</h2><p>With great power, comes great responsibility. </p> <p> <a target=\"_blank\" href=\"https://www.whitehouse.gov/\">whitehouse.gov</a> </p>"
+    },
+    {
+        "title": "The Great Wall of China",
+        "lat": 40.4319073,
+        "lng": 116.5659976,
+        "description": "<h2>The Great Wall of China</h2><p>Visible from space, the Great Wall is a cultural icon and an architectural marvel. </p> <p> <a target=\"_blank\" href=\"http://www.mutianyugreatwall.com/\">mutianyugreatwall.com</a> </p>"
+    },
+    {
+        "title": "Alcatraz",
+        "lat": 37.8267028,
+        "lng": -122.4251775,
+        "description": "<h2>Alcatraz Island</h2><p>An island with a rich history of indigenous resistance, use as a prison, and a modern wildlife sanctuary. </p> <p> <a target=\"_blank\" href=\"https://www.nps.gov/alca/index.htm\">nps.gov/alca/index.htm</a> </p>"
+    },
+    {
+        "title": "Taipei",
+        "lat": 25.0875982,
+        "lng": 121.5363373,
+        "description": "<h2>Taipei City, Taiwan</h2><p>The capital of the country, Taiwan. The skyline is crowned by the 509m-tall, bamboo-shaped Taipei 101 skyscraper, with upscale shops at the base and a rapid elevator to an observatory near the top. Taipei is also known for its lively street-food scene and many night markets, including expansive Shilin market. </p>"
+    },
+    {
+        "title": "London",
+        "lat": 51.5084561,
+        "lng": -0.1339164,
+        "description": "<h2>London</h2><p>London, the capital of England, is a 21st-century city with history stretching back to Roman times</p> <p> <a target=\"_blank\" href=\"https://www.cityoflondon.gov.uk/things-to-do/history-and-heritage/city-history\">cityoflondon.gov.uk/</a> </p>"
+    },
+    {
+        "title": "Yosemite",
+        "lat": 37.8529772,
+        "lng": -119.8312962,
+        "description": "<h2>Yosemite National Park</h2><p>Iconic national park offers an array of options such as hiking among redwoods & river rafting.</p> <p> <a target=\"_blank\" href=\"https://www.nps.gov/yose/index.htm\">nps.gov/yose/index.htm</a> </p>"
+    },
+    {
+        "title": "Sacramento",
+        "lat": 38.5616505,
+        "lng": -121.5829968,
+        "description": "<h2>Sacramento, California</h2><p>The capital of California. Important decisions are made here!</p> <p> <a target=\"_blank\" href=\"https://www.cityofsacramento.org/\">cityofsacramento.org/</a> </p>"
+    }
+]
